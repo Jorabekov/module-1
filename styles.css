@@ -1,0 +1,100 @@
+body{
+    font-family: 'Manrope', sans-serif;
+    background: #FFFFFF;
+
+
+}
+
+.container {
+  max-width: 1150px;
+  margin: 0 auto;
+  padding: 0 0;
+}
+
+.hero {
+  margin-bottom: 150px;
+}
+.hero_title {
+  width: 1400px;
+  color: #121212;
+  margin-bottom: 32px;
+  /*H1*/
+  width: 956px;
+  font-family: Manrope;
+  font-size: 60px;
+  
+  font-weight: 400;
+  line-height: 60px;
+  letter-spacing: -1.8px; 
+
+}
+.hero_box {
+position: relative;
+height: 500px;
+background-image: url(../resources/interer.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.hero_box-text {
+  width: 430px;
+  color: #fff;
+  bottom: 40px;
+  left: 40px;
+  font-family: Manrope;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -0.6px;
+  font-style: normal;
+  position: absolute;
+}
+.about_title {
+  margin-bottom: 30px;
+  width: 51px;
+  height: 25px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: normal;
+  letter-spacing: -0.54px;
+  color: #121212;
+  
+}
+
+.about_text {
+  color: #121212;
+  width: 1048px;
+  height: 366px;
+  font-weight: 400;
+  font-size: 45px;
+  letter-spacing: -0.03em;
+  margin-bottom: 30px;
+}
+.about_btn {
+  display: inline-block;
+  padding: 20px 40px;
+  border-radius: 5px;
+  background: var(--accent, #ad1818);
+  color: #fff;
+  cursor: pointer;
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: normal;
+  letter-spacing: -0.6px;
+}
+
+
+
+
+    
+
+ 
+
+
+
+
+
+    
+
+
